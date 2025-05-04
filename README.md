@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AceCase499
 - 👀 I’m interested in starting a career in developing software, video games, and the like!
-- 🌱 I’m currently learning React, while refreshing my knowledge in Python, Javascript, SQL.
+- 🌱 I’m currently learning app development with Expo, while refreshing my knowledge in Python, Javascript, SQL.
 - 📫 Please reach me at jerrodag99@gmail.com
 
 <!---
